@@ -11,6 +11,7 @@ it will mainly talk about definitions and cosepts
 ## Team Members
 
   |Username | IRL Names  | Student ID | Responsibility |
+  |---|---|---|---|
   |MarvinT-prog | Marvin Tan 陈威宏 | 1820262139|
   |F1rous | Elgin asokananda Theng 唐于钦 |1820262140|
   |swap-nil-07 |Swapnil Mondal 苏明 | 1820262094 |
