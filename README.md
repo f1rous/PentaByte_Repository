@@ -28,11 +28,11 @@ it will mainly talk about definitions and cosepts
 
 ## Repository Guide
 
-- `docs/` — planning, outline and review records
-- `content/` — learning chapters in Markdown
-- `assets/` — diagrams, images and examples
-- `logs/` — AI-use and contribution records
-- `submission/` — report drafts and evidence
+- `Docs/` — planning, outline and review records
+- `Content/` — learning chapters in Markdown
+- `Assets/` — diagrams, images and examples
+- `Logs/` — AI-use and contribution records
+- `Submission/` — report drafts and evidence
 
 ## Project Progress
 
