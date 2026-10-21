@@ -1,4 +1,4 @@
-# Module Outline — Algorithms, Data Structures & Connectionist AI
+# Module Outline — Algorithms, Data Structures & Connectionist AI (teporary)
 
 **Version:** V1.0  
 **Last updated:** 2026-10-21  
