@@ -20,21 +20,21 @@
 
 **Activity and Purpose**
 
-	Create a workload distribution for the team and read through the assignments given.
+Create a workload distribution for the team and read through the assignments given.
 
 **My Contribution**
 
-	After the lesson, I directly assigned my group to each read their part of the assignment. I specified that I will give more instructions after I have read through the documents shared within the lesson.
+After the lesson, I directly assigned my group to each read their part of the assignment. I specified that I will give more instructions after I have read through the documents shared within the lesson.
 
 I read the instructions for the project log assignment “Project log and meeting” and created key points within the main planning document. I also read through the week0 PPT and StudentGuidebook to understand the assignment. I assigned further tasks to the other members through chat to prepare for the meeting tomorrow. 
 
 **Outcome**
 
-	I prepared a summary of the assignment with the main points within our planning document. I also gave further tasks to the team members in preparation for the meeting tomorrow.
+I prepared a summary of the assignment with the main points within our planning document. I also gave further tasks to the team members in preparation for the meeting tomorrow.
 
 **Learning and Reflection**
 
-	I got a grasp on the assignment and gave my teammates the key documents to read. I learned that several of the given materials are nearly identical in content, so I was able to filter them before sending it to my team. I also learned that assignment 3 is mainly used for the professor to understand our perspective in doing the assignment.
+I got a grasp on the assignment and gave my teammates the key documents to read. I learned that several of the given materials are nearly identical in content, so I was able to filter them before sending it to my team. I also learned that assignment 3 is mainly used for the professor to understand our perspective in doing the assignment.
 
 **Proof**
 
@@ -42,11 +42,11 @@ I read the instructions for the project log assignment “Project log and meetin
 
 **AI Use**
 
-	None
+None
 
 **Next Steps**
 
-	Host a meeting tomorrow and create a format for assignment 3\.
+Host a meeting tomorrow and create a format for assignment 3\.
 
 ## 
 
@@ -54,19 +54,19 @@ I read the instructions for the project log assignment “Project log and meetin
 
 **Activity and Purpos**e
 
-	Create a format to be filled as a part of the third assignment: Project log and meeting summaries.
+Create a format to be filled as a part of the third assignment: Project log and meeting summaries.
 
 **My Contribution**
 
-	I made the formatting for assignment 3 regarding the meeting log. I also filled in our meeting information and updated it until the team’s latest meeting.
+I made the formatting for assignment 3 regarding the meeting log. I also filled in our meeting information and updated it until the team’s latest meeting.
 
 **Outcome**
 
-	There is a tab document that is dedicated for assignment 3, which contains all the requirements listed for the assignment. 
+There is a tab document that is dedicated for assignment 3, which contains all the requirements listed for the assignment. 
 
 **Learning and Reflection**
 
-	I achieved further understanding of the assignment. I started planning for the contents of the document.
+I achieved further understanding of the assignment. I started planning for the contents of the document.
 
 **Proof**
 
@@ -74,11 +74,11 @@ I read the instructions for the project log assignment “Project log and meetin
 
 **AI Use**
 
-	None
+None
 
 **Next Steps**
 
-	Start to research the topic
+Start to research the topic
 
 ---
 
@@ -86,21 +86,21 @@ I read the instructions for the project log assignment “Project log and meetin
 
 **Activity and Purpose**
 
-	Achieve an overview within the subject.
+Achieve an overview within the subject.
 
 **My Contribution**
 
-	I explored the formal definitions and sub-branches of the topic. My main goal within this work session is to achieve a grasp of the three main topics that my group covers, which is algorithms, data structures, and connectionist AI.
+I explored the formal definitions and sub-branches of the topic. My main goal within this work session is to achieve a grasp of the three main topics that my group covers, which is algorithms, data structures, and connectionist AI.
 
 **Outcome**
 
-	I am able to define what each term means and understand the mechanism and relationship between each topic. I am also starting to grasp the scope of this project, and realize the work that is yet to be done.
+I am able to define what each term means and understand the mechanism and relationship between each topic. I am also starting to grasp the scope of this project, and realize the work that is yet to be done.
 
 **Learning and Reflection**
 
-	I learned the materials for the three core topics of this assignment, which is the algorithms, data structures, and connectionist AI. I found that the algorithms 
+I learned the materials for the three core topics of this assignment, which is the algorithms, data structures, and connectionist AI. I found that the algorithms 
 
-	An interesting note is that I have rarely used AI within my assignments. This is my first time attempting to use AI for researching the topic and scope of a subject before doing it. I find the process really interesting and different with the methodology I am familiar with, which usually involves branching research paths using a search engine. I am still conflicted on whether the result is better achieved using AI or if I could have been more efficient without.
+An interesting note is that I have rarely used AI within my assignments. This is my first time attempting to use AI for researching the topic and scope of a subject before doing it. I find the process really interesting and different with the methodology I am familiar with, which usually involves branching research paths using a search engine. I am still conflicted on whether the result is better achieved using AI or if I could have been more efficient without.
 
 **Proof**
 
@@ -128,21 +128,21 @@ Evidence: ![][image4]
 
 **Next Steps**
 
-	Research deeper into each subtopic and create a guidemap for it.
+Research deeper into each subtopic and create a guidemap for it.
 
 ## **October 20, 2026 — Hosted Meeting and Update Logs**
 
 **Activity and Purpose**
 
-	Update personal logs and meeting logs to match the work done over the last few days. As Swapnil has finished the format, I am able to complete this part of the assignment.
+Update personal logs and meeting logs to match the work done over the last few days. As Swapnil has finished the format, I am able to complete this part of the assignment.
 
 **My Contribution**
 
-	I created a new tab within the word document and I wrote my personal logs from the latest date to the earliest date. I also update the meeting logs.
+I created a new tab within the word document and I wrote my personal logs from the latest date to the earliest date. I also update the meeting logs.
 
 **Outcome**
 
-	I updated my personal logs to include my work from the last few days. I also updated the meeting log to include today’s meeting.
+I updated my personal logs to include my work from the last few days. I also updated the meeting log to include today’s meeting.
 
 **Learning and Reflection**
 
@@ -154,25 +154,25 @@ I learned to adapt the new format created by Swapnil for my personal use.
 
 **AI Use**
 
-	None
+None
 
 **Next Steps**
 
-	Continue progress within research and start to outline the content within the PPT deliverable. 
+Continue progress within research and start to outline the content within the PPT deliverable. 
 
 ## **October 21, 2026 — Full Research \+ Start PPT** 
 
 **Activity and Purpose**
 
-	Further research about the individual parts of the topic and start with the placement of the PPT.
+Further research about the individual parts of the topic and start with the placement of the PPT.
 
 **My Contribution**
 
-	Developed my research tab to contain general information as well as the cited sources to explore further.
+Developed my research tab to contain general information as well as the cited sources to explore further.
 
 **Outcome**
 
-	A deeper understanding of the topic and scope of the project. Typed research results to discuss further later.
+A deeper understanding of the topic and scope of the project. Typed research results to discuss further later.
 
 **Learning and Reflection**
 
@@ -224,15 +224,15 @@ Evidence:
 
 **Activity and Purpose**
 
-	Using the research done, I started to outline the content of the PPT. During the evening, I had a meeting with my group, and I 
+Using the research done, I started to outline the content of the PPT. During the evening, I had a meeting with my group, and I 
 
 **My Contribution**
 
-	Created a PPT for the three main topics of our assignment. Outlined the general content that will be placed in each one, as well as the formatting.
+Created a PPT for the three main topics of our assignment. Outlined the general content that will be placed in each one, as well as the formatting.
 
 **Outcome**
 
-	Working PPT outline, only lacking pictures and brief text descriptions. Updated all my personal and team logs to match until the most recent work.
+Working PPT outline, only lacking pictures and brief text descriptions. Updated all my personal and team logs to match until the most recent work.
 
 **Learning and Reflection**
 
@@ -246,11 +246,11 @@ Evidence:
 
 **AI Use**
 
-	None
+None
 
 **Next Steps**
 
-	Upload the work into github and finish the repository.
+Upload the work into github and finish the repository.
 
 	
 
