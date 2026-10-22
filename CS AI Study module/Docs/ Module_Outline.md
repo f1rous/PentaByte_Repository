@@ -8,7 +8,7 @@
 
 ## 2. Intended Learners
 
-Target audience: Beginners studying algorithms, data structures, and connectionist AI.
+**Target audience**: Beginners studying algorithms, data structures, and connectionist AI.
 
 The materials should define unfamiliar terminology, explain important steps clearly, and avoid assuming that learners already understand advanced computer science concepts.
 
@@ -19,23 +19,14 @@ The team's precise target audience and expected programming experience should be
 At the end of the module, learners should be able to:
 
 Define an algorithm and explain how it solves a computational problem.
-
 Trace a simple algorithm and determine its output for a given input.
-
 Explain the purpose of common searching and sorting algorithms.
-
 Describe the purpose and basic operations of common data structures.
-
 Compare data structures using their organization, operations, and relevant trade-offs.
-
 Explain the basic idea of connectionist AI and how artificial neurons combine inputs.
-
 Describe the roles of weights, biases, and activation functions in a basic artificial neuron.
-
 Work through introductory examples and answer questions demonstrating their understanding.
-
 Identify sources and explain the reasoning behind their solutions.
-
 These outcomes are provisional and should be aligned with the team's final scope and the teacher's expectations.
 
 ## 4. Prerequisite Knowledge
