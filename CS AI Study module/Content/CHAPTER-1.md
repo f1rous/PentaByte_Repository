@@ -6,9 +6,7 @@ This chapter introduces computational thinking through a battery-charge example.
 
 Your student robotics team has five batteries. Before a demonstration, you need the one with the highest charge. Looking at five readings is easy. But what if there are five thousand, the values arrive in a different order, or the list is empty?
 
-![Figure 1.1: Five fictional battery charge readings](assets/images/figure-1.png)
-
-**Figure 1.1  Our running example uses five fictional battery readings.**
+<img width="512" height="191" alt="Graph_1 (1)" src="https://github.com/user-attachments/assets/6f98f425-e3fd-4f11-9e03-d051321e437a" />
 
 This chapter shows how to turn that everyday decision into a precise, testable solution. You will move from a problem statement to a model, then to pseudocode, a trace, and a small Python program. The same approach will support the algorithms and AI systems you study later.
 
@@ -37,7 +35,8 @@ Computational thinking means formulating a problem so that a clear process can s
 
 Break a task into smaller tasks with clear responsibilities. For the battery problem, separate reading the data, comparing the values, and reporting the result. If a reading is missing, you can investigate the input stage without rewriting the comparison method.
 
-![Figure 1.2: Decomposition of a problem into smaller responsibilities](assets/images/figure-2.png)
+<img width="512" height="173" alt="Mindmap_1 (2)" src="https://github.com/user-attachments/assets/bf26ca4b-7f8a-46e1-ad83-ce6b89567fec" />
+
 
 **Figure 1.2  Decomposition separates the responsibilities of a solution.**
 
@@ -88,7 +87,8 @@ Given a finite list of valid charge readings, return a value that occurs in the 
 
 A model is a simplified representation of a situation. Computers cannot directly reason about a battery on a table; they operate on a representation, such as a number and an identifier. A useful model preserves the information needed to answer the question.
 
-![Figure 1.3: Representing a real-world collection as data](assets/images/figure-3.png)
+<img width="512" height="163" alt="Graph_2 (3)" src="https://github.com/user-attachments/assets/678e7285-1e2c-49c8-a57b-56d777493ab9" />
+
 
 **Figure 1.3  A physical collection becomes data that a method can process.**
 
@@ -144,7 +144,8 @@ First explain the method on paper. Then check a small example. Only after the st
 
 Many introductory algorithms can be built from three control structures. Sequence determines what happens next, selection chooses between actions, and repetition performs a group of actions more than once.
 
-![Figure 1.4: Sequence, selection, and repetition control structures](assets/images/figure-4.png)
+<img width="512" height="240" alt="Mindmap_2 (4)" src="https://github.com/user-attachments/assets/a8aba904-3df7-4102-be48-52fc060a02f2" />
+
 
 **Figure 1.4  The arrows show order, branching, and a return to a loop condition.**
 
@@ -214,9 +215,10 @@ The statement count ← count + 1 means “read the old count, add one, and stor
 
 A flowchart represents steps and decisions with shapes connected by arrows. It is especially useful when a reader needs to see branching or a repeated path. The following are common introductory conventions; the label inside each symbol should state its exact purpose.
 
-![Figure 1.5: Common flowchart symbols](assets/images/figure-5.png)
+<img width="512" height="269" alt="Defenition_1 (5)" src="https://github.com/user-attachments/assets/76151640-98a3-4d49-8d04-75ae0502a2a9" />
 
 **Figure 1.5  Four common symbols used in this chapter’s flowcharts.**
+
 
 #### Arrows and connectors
 
@@ -239,7 +241,8 @@ A neat diagram can still describe incorrect logic. Trace it with a real input an
 
 Consider a simplified campus gate. Its input is whether a card is valid. A valid card unlocks the gate; an invalid card produces a denial message. This teaching model leaves out real access-control details such as time restrictions and hardware faults.
 
-![Figure 1.6: A flowchart showing both gate-decision branches](assets/images/figure-6.png)
+<img width="512" height="410" alt="Mindmap_3 (6)" src="https://github.com/user-attachments/assets/82fecfd5-4ce6-4912-a85e-901dbd0299a5" />
+
 
 **Figure 1.6  Both branches complete the decision and then reach End.**
 
@@ -320,7 +323,8 @@ We can now solve the running problem from beginning to end. For this general alg
 
 Choose the first value as a temporary best. Compare each later value with it. Replace the best only when the new value is larger. Once every value has been examined, return the candidate that remains.
 
-![Figure 1.7: Tracking the largest value seen so far](assets/images/figure-7.png)
+<img width="512" height="177" alt="Flowchart_1 (7)" src="https://github.com/user-attachments/assets/c5418c24-0019-41e4-913b-9244107c6328" />
+
 
 **Figure 1.7  The candidate changes at 76 and 91, and stays unchanged at 58 and 67.**
 
