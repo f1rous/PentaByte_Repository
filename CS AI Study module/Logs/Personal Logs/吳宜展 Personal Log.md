@@ -239,9 +239,11 @@ I learned the connections between the topics further, as well as starting into t
 
 **Learning and Reflection**
 
-
+I learned the connections between the topics further, as well as starting into the details of each topic. I also learned how to convert this document into a markdown content and placed it within github with the photos.
 
 **Proof**
+
+<img width="512" height="270" alt="image" src="https://github.com/user-attachments/assets/3b34a4b3-e0d5-4500-86a0-ceea46fd4f3e" />
 
 <img width="512" height="268" alt="image" src="https://github.com/user-attachments/assets/422ce4e7-cf48-4ad4-8248-89b084455e67" />
 
