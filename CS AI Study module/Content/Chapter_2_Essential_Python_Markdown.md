@@ -2,10 +2,6 @@
 
 ## Essential Python for the Guide
 
-*Write programs you can explain and test*
-
-> **Image note:** The uploaded source is a text extraction. It includes figure captions but not the original image files. Figure locations are marked below so the original images can be added later under `assets/images/`.
-
 In Chapter 1, you designed a method before choosing a language. Now you will turn those ideas into Python. Our running task is a small student-score report: calculate the average, find the highest score, and count how many scores reach an agreed pass mark.
 
 > **Image placeholder — Figure 2.1**
