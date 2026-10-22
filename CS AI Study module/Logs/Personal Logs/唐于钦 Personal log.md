@@ -88,7 +88,7 @@ Prompt		:  Help me build the README and module outline in my existing GitHub rep
 Proof		:[https\://chatgpt.com/c/6ad7568d-ad40-83ec-9d77-2d12e17d6512](https://chatgpt.com/c/6ad7568d-ad40-83ec-9d77-2d12e17d6512)  
 		 [https\://chatgpt.com/c/6ad8ca98-ae74-83ec-bd22-d8701db7cc37](https://chatgpt.com/c/6ad8ca98-ae74-83ec-bd22-d8701db7cc37) 
 
-Entry \#6  
+# Entry \#6  
 Time		: 22-10-2026  
 Description	: Finally starting the github   
 Result		: Putting Module outline in the gi  
