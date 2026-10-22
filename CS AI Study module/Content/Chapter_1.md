@@ -39,7 +39,8 @@ Computational thinking means formulating a problem so that a clear process can s
 
 Break a task into smaller tasks with clear responsibilities. For the battery problem, separate reading the data, comparing the values, and reporting the result. If a reading is missing, you can investigate the input stage without rewriting the comparison method.
 
-![Figure 1.2  Decomposition separates the responsibilities of a solution.][image2]
+<img width="512" height="173" alt="image" src="https://github.com/user-attachments/assets/e980ba32-fcf8-4c22-9456-3249b3412796" />
+
 
 **Figure 1.2  Decomposition separates the responsibilities of a solution.**
 
@@ -90,7 +91,8 @@ Given a finite list of valid charge readings, return a value that occurs in the 
 
 A model is a simplified representation of a situation. Computers cannot directly reason about a battery on a table; they operate on a representation, such as a number and an identifier. A useful model preserves the information needed to answer the question.
 
-![Figure 1.3  A physical collection becomes data that a method can process.][image3]
+<img width="512" height="163" alt="image" src="https://github.com/user-attachments/assets/686c0f0b-1d6c-41a7-a876-5b29c59c2f73" />
+
 
 **Figure 1.3  A physical collection becomes data that a method can process.**
 
@@ -146,7 +148,8 @@ First explain the method on paper. Then check a small example. Only after the st
 
 Many introductory algorithms can be built from three control structures. Sequence determines what happens next, selection chooses between actions, and repetition performs a group of actions more than once.
 
-![Figure 1.4  The arrows show order, branching, and a return to a loop condition.][image4]
+<img width="512" height="240" alt="image" src="https://github.com/user-attachments/assets/d0357b4a-23f6-47a7-b13a-c8ff03f726a2" />
+
 
 **Figure 1.4  The arrows show order, branching, and a return to a loop condition.**
 
@@ -212,7 +215,8 @@ The statement count ← count \+ 1 means “read the old count, add one, and sto
 
 A flowchart represents steps and decisions with shapes connected by arrows. It is especially useful when a reader needs to see branching or a repeated path. The following are common introductory conventions; the label inside each symbol should state its exact purpose.
 
-![Figure 1.5  Four common symbols used in this chapter’s flowcharts.][image5]
+<img width="512" height="269" alt="image" src="https://github.com/user-attachments/assets/794910b9-2cdf-42c0-a3ce-67cae90005ba" />
+
 
 **Figure 1.5  Four common symbols used in this chapter’s flowcharts.**
 
@@ -237,7 +241,8 @@ A neat diagram can still describe incorrect logic. Trace it with a real input an
 
 Consider a simplified campus gate. Its input is whether a card is valid. A valid card unlocks the gate; an invalid card produces a denial message. This teaching model leaves out real access-control details such as time restrictions and hardware faults.
 
-![Figure 1.6  Both branches complete the decision and then reach End.][image6]
+<img width="512" height="410" alt="image" src="https://github.com/user-attachments/assets/316652b7-daeb-426f-ad36-8edf7d2e13e5" />
+
 
 **Figure 1.6  Both branches complete the decision and then reach End.**
 
@@ -318,7 +323,8 @@ We can now solve the running problem from beginning to end. For this general alg
 
 Choose the first value as a temporary best. Compare each later value with it. Replace the best only when the new value is larger. Once every value has been examined, return the candidate that remains.
 
-![Figure 1.7  The candidate changes at 76 and 91, and stays unchanged at 58 and 67.][image7]
+<img width="512" height="177" alt="image" src="https://github.com/user-attachments/assets/f6cef9a8-8bb2-4ab1-a909-7c3b3344688b" />
+
 
 **Figure 1.7  The candidate changes at 76 and 91, and stays unchanged at 58 and 67\.**
 
