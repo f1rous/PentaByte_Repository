@@ -4,8 +4,8 @@
 
 In Chapter 1, you designed a method before choosing a language. Now you will turn those ideas into Python. Our running task is a small student-score report: calculate the average, find the highest score, and count how many scores reach an agreed pass mark.
 
-> **Image placeholder — Figure 2.1**
-> Fictional scores for our worked example. The pass mark of 60 is a teaching rule, not a university grading policy.
+<img width="512" height="184" alt="image" src="https://github.com/user-attachments/assets/bdfeacd8-6858-41c8-acab-46042cf20e44" />
+
 
 Every topic adds a tool you will use in the final program. You will also learn to check what the program actually does, rather than trusting a result just because it looks plausible.
 
@@ -112,8 +112,8 @@ print(score)  # 77
 
 ```
 
-> **Image placeholder — Figure 2.2**
-> Assignment uses the old value to compute a new one, then updates the name.
+<img width="512" height="209" alt="image" src="https://github.com/user-attachments/assets/138716b8-c69d-4039-b721-c367babe1c46" />
+
 
 **Type**
 
@@ -464,8 +464,8 @@ print(score, adjusted)  # 72 77
 
 ```
 
-> **Image placeholder — Figure 2.3**
-> The function returns a new number; the caller decides where to store it.
+<img width="512" height="209" alt="image" src="https://github.com/user-attachments/assets/94e162af-d156-44d0-92d6-e9b1ae8a15d6" />
+
 
 The local assignment does not reassign the caller’s score. The caller receives 77 and binds adjusted to it. To replace the caller’s score, write score = add_bonus(score, 5).
 
@@ -493,8 +493,8 @@ print(text[1:4])  # YTH
 
 ```
 
-> **Image placeholder — Figure 2.4**
-> A slice includes its start index and excludes its stop index.
+<img width="512" height="181" alt="image" src="https://github.com/user-attachments/assets/2bcd8665-0265-4ee3-a95d-76ca95f52fc2" />
+
 
 #### Read a slice as a range of positions
 
@@ -624,8 +624,8 @@ print(copy_scores)  # [72, 85, 59]
 
 ```
 
-> **Image placeholder — Figure 2.5**
-> alias shares scores; copy_scores is a separate outer list.
+<img width="512" height="181" alt="image" src="https://github.com/user-attachments/assets/e4157f6e-cd39-4f0d-b779-b823d48e2972" />
+
 
 copy is shallow: nested mutable items would still be shared. For our flat list of numbers, it is enough to separate element replacements. Avoid adding or removing items from a list while looping over that same list; build a new list instead.
 
@@ -929,8 +929,8 @@ Input preservation
 
 Read the list without changing its values or order.
 
-> **Image placeholder — Figure 2.6**
-> Empty input has its own outcome; valid data reaches the report.
+<img width="512" height="237" alt="image" src="https://github.com/user-attachments/assets/69c830ea-23fe-4326-9edb-5e83db6d2ab1" />
+
 
 #### Plan the variables
 
