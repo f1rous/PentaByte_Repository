@@ -1,7 +1,9 @@
 # Algorithms, Data Structures, and Connectionist AI
 
 **Version**: V1.0
-**Last updated**: 2026-10-21
+
+**Last updated**: 2026-10-22
+
 **Overall status**: Outline only — content development in progress
 
 ## 2. Intended Learners
@@ -80,16 +82,6 @@ The team should confirm whether a particular programming language or additional 
 **Scope:** Computational thinking, core algorithms and data structures, artificial neural networks, and practical integration
 
 ---
-
-## Front Matter
-
-- Title page and team credits
-- Preface: purpose and scope
-- Intended audience and prerequisites
-- Learning objectives
-- How to use the book and run the examples
-- Table of contents
-- List of figures, tables, and code examples
 
 ## Learning Objectives
 
