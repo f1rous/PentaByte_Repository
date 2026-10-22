@@ -25,7 +25,21 @@ This chapter shows how to turn that everyday decision into a precise, testable s
 
 | Understand the task | Express the method | Check the result |
 | :---- | :---- | :---- |
-| 1.1 Computational thinking1.2 Problem definition1.3 Modeling | 1.4 Algorithms and programs1.5 Control structures1.6 Pseudocode1.7 Flowcharts | 1.8 Trace tables1.9 Correctness and edge cases1.10 Finding the largest value |
+| 1.1 Computational thinking1.
+
+2 Problem definition1.
+
+3 Modeling | 1.4 Algorithms and programs
+
+1.5 Control structures
+
+1.6 Pseudocode
+
+1.7 Flowcharts | 1.8 Trace tables
+
+1.9 Correctness and edge cases
+
+1.10 Finding the largest value |
 
 **Before you begin** No prior Python knowledge is required. Read the plain-language reasoning first; the Python example near the end is a preview, with its syntax explained.
 
