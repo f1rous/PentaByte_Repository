@@ -223,21 +223,23 @@ Evidence:
 
 - Apply the research result into a PPT	
 
-## **October 22, 2026 — Starting PPT and Finish Logs**
+## **October 22, 2026 — Starting PPT, Finish Logs, and Learn Github**
 
 **Activity and Purpose**
 
-Using the research done, I started to outline the content of the PPT. During the evening, I had a meeting with my group, and I 
+Using the research done, I started to outline the content of the PPT. During the evening, I had a meeting with my group, we discussed and finished the parts that are able to be finished. We also planned to start transferring the files over to github.
 
 **My Contribution**
 
-Created a PPT for the three main topics of our assignment. Outlined the general content that will be placed in each one, as well as the formatting.
+Created a PPT for the three main topics of our assignment. Outlined the general content that will be placed in each one, as well as the formatting. Updated the meeting log and my personal logs. Placed the personal log within the github.
 
 **Outcome**
 
-Working PPT outline, only lacking pictures and brief text descriptions. Updated all my personal and team logs to match until the most recent work.
+I learned the connections between the topics further, as well as starting into the details of each topic. I also learned how to convert this document into a markdown content and placed it within github with the photos.
 
 **Learning and Reflection**
+
+
 
 **Proof**
 
