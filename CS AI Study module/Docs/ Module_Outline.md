@@ -42,38 +42,14 @@ The team's precise target audience and expected programming experience should be
 
 The lessons should introduce concepts in an order that supports beginners.
 
-Prerequisite
-
-Expected knowledge
-
-How the module will support learners
-
-Basic mathematics
-
-Arithmetic and comparisons
-
-Explain calculations step by step
-
-Basic logical reasoning
-
-Following ordered instructions and simple conditions
-
-Use traces, pseudocode, and diagrams
-
-Basic computing concepts
-
-Understanding inputs, outputs, and stored information
-
-Define terminology when first introduced
-
-Programming experience
-
-Helpful, but the assumed level is not yet confirmed
-
-Use language-independent examples where practical
+| Prerequisite | Expected knowledge | How the module will support learners |
+|---|---|---|
+| Basic mathematics | Arithmetic and comparisons | Explain calculations step by step |
+| Basic logical reasoning | Following ordered instructions and simple conditions | Use traces, pseudocode, and diagrams |
+| Basic computing concepts | Understanding inputs, outputs, and stored information | Define terminology when first introduced |
+| Programming experience | Helpful, but the assumed level is not yet confirmed | Use language-independent examples where practical |
 
 The team should confirm whether a particular programming language or additional mathematical knowledge is required.
-
 ## A Beginner’s Guide to Problem-Solving and Neural Networks with Python
 
 **Project book outline — revised draft**
