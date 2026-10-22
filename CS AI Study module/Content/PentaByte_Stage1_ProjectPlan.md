@@ -6,7 +6,8 @@
 
 Your student robotics team has five batteries. Before a demonstration, you need the one with the highest charge. Looking at five readings is easy. But what if there are five thousand, the values arrive in a different order, or the list is empty?
 
-<img width="570" height="206" alt="image" src="https://github.com/user-attachments/assets/81d89145-c997-4497-9d0c-d1aac43e7af1" />
+<img width="512" height="191" alt="image" src="https://github.com/user-attachments/assets/ede9d2c2-fc63-4ca7-b283-790b9b048d0c" />
+
 
 
 **Figure 1.1  Our running example uses five fictional battery readings.**
