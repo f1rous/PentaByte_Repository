@@ -102,7 +102,7 @@ Time management was a challenge. Clear communication and agreeing on responsibil
 
 ### Proof / Evidence
 
-<img width="946" height="2048" alt="image" src="https://github.com/user-attachments/assets/55e134c6-99ce-4599-809e-485862e2cd22" />
+<img width="960" height="1442" alt="image" src="https://github.com/user-attachments/assets/ed07aa15-4f99-4709-95ea-6af843c5f285" />
 
 ### AI Use
 None recorded for this activity.
