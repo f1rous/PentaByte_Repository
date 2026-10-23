@@ -6,7 +6,7 @@ The central question How much work will your program do when the data grows?
 
 A program that handles ten student scores can feel instant. Give it a million scores, and its design starts to matter. This chapter gives you a practical way to predict that change before you run the program.
 
-\n\n![Figure](assets/images/figure-1.png)\n\n
+https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Chapter%20Assets/Chapter_3/1.png
 
 *Figure 3.1 • Comparing one scan with every unique pair. These are counts, not measured seconds.*
 
@@ -60,7 +60,7 @@ Measured running time describes one implementation on one machine with one input
 | Useful for comparing actual implementations | Useful for predicting scaling behavior |
 | Usually reported in seconds | Usually reported as a function of input size |
 
-\n\n![Figure](assets/images/figure-2.png)\n\n
+https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Chapter%20Assets/Chapter_3/2.png
 
 *Figure 3.2 • Hypothetical operation counts: 20n and n². The lower-growth method wins only after the crossover.*
 
@@ -135,7 +135,7 @@ Further reading: NIST, “big-O notation,” and Cornell CS 2112, “Asymptotic 
 
 ## Six growth rates worth recognizing
 
-\n\n![Figure](assets/images/figure-3.png)\n\n
+https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Chapter%20Assets/Chapter_3/3.png
 
 *Figure 3.3 • Representative functions, not benchmark results. Each vertical step on the logarithmic axis represents a multiplication.*
 
@@ -210,7 +210,7 @@ If an outer loop visits n students and an inner loop visits m assignments, the w
 
 for i in range(n):    for j in range(i + 1, n):        count += 1
 
-\n\n![Figure](assets/images/figure-4.png)\n\n
+https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Chapter%20Assets/Chapter_3/4.png
 
 *Figure 3.4 • At n = 5, only cells with j > i are visited. Each unordered pair is counted once.*
 
@@ -230,7 +230,7 @@ Analysis habit: identify the loop bounds, check where variables are reset, count
 
 Time is only one resource. Space complexity describes how memory use grows with input size. Always say what you include: input storage, extra working memory, and returned output can be counted separately.
 
-\n\n![Figure](assets/images/figure-5.png)\n\n
+https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Chapter%20Assets/Chapter_3/5.png
 
 *Figure 3.5 • A running maximum adds constant working storage; a list copy adds storage proportional to the input.*
 
