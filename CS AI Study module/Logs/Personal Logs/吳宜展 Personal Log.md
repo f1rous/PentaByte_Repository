@@ -30,7 +30,7 @@ I read the instructions for the project log assignment “Project log and meetin
 
 **Outcome**
 
-I prepared a summary of the assignment with the main points within our planning document. I also gave further tasks to the team members in preparation for the meeting tomorrow.
+I prepared a summary of the assignment with the main points within our planning document. I also gave further tasks to the team members in preparation for the meeting tomorrow. I also read through the main documents such as the student guidebook, teacher note, and PPT week0 while creating a summary of the teamlog assignment and distributed the workload.
 
 **Learning and Reflection**
 
@@ -39,6 +39,7 @@ I got a grasp on the assignment and gave my teammates the key documents to read.
 **Proof**
 
 <img width="512" height="339" alt="image" src="https://github.com/user-attachments/assets/e4471996-667b-4476-8cc2-4695533d05ed" />
+Proof of summary and planning for the teamlog assignment.
 
 **AI Use**
 
@@ -71,6 +72,7 @@ I achieved further understanding of the assignment. I started planning for the c
 **Proof**
 
 <img width="512" height="332" alt="image" src="https://github.com/user-attachments/assets/681cb2c4-bcb0-4e0f-bc37-7732b0652dcb" />
+Proof of format creation for assignment 3.
 
 **AI Use**
 
@@ -105,6 +107,7 @@ An interesting note is that I have rarely used AI within my assignments. This is
 **Proof**
 
 <img width="512" height="357" alt="image" src="https://github.com/user-attachments/assets/de1e3752-4d88-4b9e-9558-d3f64c872c50" />
+Proof of research and topic outline.
 
 **AI Use**
 
@@ -127,7 +130,7 @@ Format : Seperate your answer into 4 parts, first is for algorithms, second is f
 Evidence: 
 
 <img width="512" height="310" alt="image" src="https://github.com/user-attachments/assets/8f870d8e-5d80-4bbb-a89d-8f6142bc0e95" />
-
+Deepseek research outline chatlog.
 
 **Next Steps**
 
@@ -154,6 +157,7 @@ I learned to adapt the new format created by Swapnil for my personal use.
 **Proof**
 
 <img width="512" height="375" alt="image" src="https://github.com/user-attachments/assets/34deda58-a22e-4594-9716-04371549247e" />
+Updated personal log to include all work logs until the most recent session.
 
 **AI Use**
 
@@ -188,10 +192,12 @@ Otherwise, the main learning process regarding the topics, ranging from the algo
 **Proof**
 
 <img width="512" height="375" alt="image" src="https://github.com/user-attachments/assets/6e1a44bc-9dbf-46f7-8a5b-65f9c70c3697" />
+Research outline from the previous session before I begin the session.
 
 Before
 
 <img width="512" height="268" alt="image" src="https://github.com/user-attachments/assets/120ef319-4edf-4209-a5c8-e05df0d04a2c" />
+Main key points after research was done placed within the document.
 
 After
 
@@ -218,6 +224,7 @@ Constraint : Only use verifiable sources, cite them below each part, flag sectio
 Evidence: 
 
 <img width="512" height="312" alt="image" src="https://github.com/user-attachments/assets/16adbb7a-3727-44dd-8460-24dd8309406f" />
+Research chatlog within the topics.
 
 **Next Steps :** 
 
@@ -244,12 +251,16 @@ I learned the connections between the topics further, as well as starting into t
 **Proof**
 
 <img width="512" height="270" alt="image" src="https://github.com/user-attachments/assets/3b34a4b3-e0d5-4500-86a0-ceea46fd4f3e" />
+Proof of Github upload attempt.
 
 <img width="512" height="268" alt="image" src="https://github.com/user-attachments/assets/422ce4e7-cf48-4ad4-8248-89b084455e67" />
+Data Structure PPT Outline
 
 <img width="512" height="271" alt="image" src="https://github.com/user-attachments/assets/7088edad-3261-4ade-94b7-f77cb47a0b64" />
+Connectionist AI PPT Outline
 
 <img width="512" height="268" alt="image" src="https://github.com/user-attachments/assets/185b93a2-a724-4af5-9b5d-b8c52d098717" />
+Algorithm PPT Outline
 
 **AI Use**
 
