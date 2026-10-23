@@ -12,7 +12,8 @@ Result		: Created account, 1st Repostory(fail)
 Lesson Learnt	: What is Github and Git   
 Work Left	: To get all members to download Github and Understand what markdown is  
 Plans		: Refine the Repository and do reasearch  
-Proof		: ![][image1]
+Proof		: <img width="512" height="398" alt="P1)" src="https://github.com/user-attachments/assets/2ae802ef-8241-455f-ad76-450362638304" />
+
 
 AI Use 		: None  
 Tool		: \-  
@@ -28,7 +29,8 @@ Result		: Created repository and Understanding the Markdown format
 Lesson Learnt	: Double check your work after finishing it  
 Work Left	: Refine the Repository, do Research, Understand Git and Connect it to Github  
 Plans		: Connect Repo to git and refine Repo  
-Proof		: ![][image2]
+Proof		: <img width="512" height="263" alt="P2" src="https://github.com/user-attachments/assets/acff37ea-cc97-4226-99cd-4ccfa83f274c" />
+
 
 AI Use 		: \-  
 Tool		: \-  
@@ -44,7 +46,8 @@ Result		: Explained what we were supposed to do
 Lesson Learnt	: What we were supposed to do  
 Work Left	: Refine the Repository, do Research, Understand Git and Connect it to Github  
 Plans		: Teach the team how to use github and git  
-Proof		: ![][image3]
+Proof		: <img width="512" height="239" alt="P3" src="https://github.com/user-attachments/assets/69f3dfb1-3f6f-497e-be53-05c79d406d5f" />
+
 
 AI Use 		: \-  
 Tool		: \-  
@@ -60,7 +63,8 @@ Result		: New more clear repository and Git connection
 Lesson Learnt	: The need of teammates intuition for their input in github  
 Work Left	: research and github input  
 Plans		: research  
-Proof		: ![][image4]
+Proof		: <img width="512" height="96" alt="P4" src="https://github.com/user-attachments/assets/e798c0f6-73cb-40af-8ba5-60ff9d1b42e6" />
+
 
 AI Use 		: simple prompting question  
 Tool		: Chatgpt  
@@ -77,7 +81,7 @@ Lesson Learnt	: we need more research
 Work Left	: getting research done and depositing it in the github Repository and  
 		  Markdown content file  
 Plans		: start research  
-Proof		: ![][image5]
+Proof		: https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/P5.png
 
 AI Use 		: getting the format for the temporary module outline  
 Tool		: Chatgpt  
