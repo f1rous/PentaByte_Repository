@@ -10,8 +10,6 @@
 | **Stage** | 1 |
 | **Reporting period** | From the beginning of course learning and project work to October 24, 2026 |
 
-> This log records my contributions, learning, reflections, AI use, and next steps during Stage 1.
-
 ## October 9, 2026 — Team Formation and GitHub Setup
 
 ### Activity and Purpose
@@ -28,7 +26,7 @@ At this stage, I was still unclear about the assignment requirements and what th
 
 ### Proof / Evidence
 
-![Evidence screenshot](assets/evidence-02.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-02.png)
 
 ### AI Use
 None.
@@ -52,7 +50,7 @@ Understanding the assignment independently was difficult. I learned that AI can 
 
 ### Proof / Evidence
 
-![Evidence screenshot](assets/evidence-03.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-03.png)
 
 ### AI Use
 **Tool:** ChatGPT  
@@ -77,9 +75,9 @@ My teammates misunderstood my part because the summary was too simplified. I lea
 
 ### Proof / Evidence
 
-![Evidence screenshot](assets/evidence-04.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-04.png)
 
-![Evidence screenshot](assets/evidence-05.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-05.png)
 
 ### AI Use
 **Tool:** ChatGPT  
@@ -104,7 +102,7 @@ Time management was a challenge. Clear communication and agreeing on responsibil
 
 ### Proof / Evidence
 
-![Evidence screenshot](assets/evidence-06.jpg)
+<img width="946" height="2048" alt="image" src="https://github.com/user-attachments/assets/55e134c6-99ce-4599-809e-485862e2cd22" />
 
 ### AI Use
 None recorded for this activity.
@@ -128,23 +126,23 @@ I developed a basic understanding of the project's main topics. I also learned t
 
 ### Proof / Evidence
 
-![Evidence screenshot](assets/evidence-07.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-07.png)
 
-![Evidence screenshot](assets/evidence-08.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-08.png)
 
-![Evidence screenshot](assets/evidence-09.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-09.png)
 
-![Evidence screenshot](assets/evidence-10.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-10.png)
 
-![Evidence screenshot](assets/evidence-11.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-11.png)
 
-![Evidence screenshot](assets/evidence-12.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-12.png)
 
-![Evidence screenshot](assets/evidence-13.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-13.png)
 
-![Evidence screenshot](assets/evidence-14.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-14.png)
 
-![Evidence screenshot](assets/evidence-15.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-15.png)
 
 ### AI Use
 **Tool:** ChatGPT  
@@ -169,11 +167,11 @@ I learned more about teamwork, coordinating responsibilities, and reviewing cont
 
 ### Proof / Evidence
 
-![Evidence screenshot](assets/evidence-16.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-16.png)
 
-![Evidence screenshot](assets/evidence-17.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-17.png)
 
-![Evidence screenshot](assets/evidence-18.png)
+![Evidence screenshot](../../Assets/Personal%20Assets/Rakib/evidence-18.png)
 
 ### AI Use
 **Tool:** ChatGPT  
