@@ -80,32 +80,7 @@
 
 ---
 
-## **October 20, 2026 — Task Allocation and Planning**
-
-### **Activities**
-
-* Explained my assigned work to the team again.  
-* Discussed the next steps and decided how to divide the upcoming tasks.
-
-### **My Contributions**
-
-* Helped clarify my responsibilities and contributed to the team's task-planning discussion.
-
-### **Challenges**
-
-* Managing time while trying to understand the assignment and coordinate with the team.
-
-### **Next Steps**
-
-* Research the project topic.  
-* Work on the Test Bank.  
-* Continue coordinating with the team to meet the submission requirements.
-
----
-
 ## **October 19, 2026 — Topic Research and Content Development**
-
-> **Date to verify:** This entry was also listed as October 18 in my original notes. Update the date if these activities took place on a different day.
 
 ### **Activities**
 
@@ -135,6 +110,29 @@
 
 * Review and refine the drafted material.  
 * Improve the clarity and completeness of the content.
+
+---
+
+## **October 20, 2026 — Task Allocation and Planning**
+
+### **Activities**
+
+* Explained my assigned work to the team again.  
+* Discussed the next steps and decided how to divide the upcoming tasks.
+
+### **My Contributions**
+
+* Helped clarify my responsibilities and contributed to the team's task-planning discussion.
+
+### **Challenges**
+
+* Managing time while trying to understand the assignment and coordinate with the team.
+
+### **Next Steps**
+
+* Research the project topic.  
+* Work on the Test Bank.  
+* Continue coordinating with the team to meet the submission requirements.
 
 ---
 
@@ -171,9 +169,4 @@
 
 ---
 
-## **Overall Reflection**
-
-During this period, I learned how to approach a complex assignment, interpret requirements, conduct initial research, organize learning materials, and collaborate with teammates through GitHub. I also learned that simplifying information too much can create misunderstandings and that AI-generated content must be reviewed rather than accepted without checking.
-
-My next priority is to improve the quality and consistency of the project materials, complete my assigned responsibilities, and ensure that the work is properly organized for submission.
 
