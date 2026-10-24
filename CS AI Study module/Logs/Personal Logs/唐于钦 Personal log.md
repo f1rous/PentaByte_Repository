@@ -2,7 +2,7 @@
 
     
 Personal Log  
-**Elgin**
+**Elgin Asokananda Theng 唐于钦 **
 	
 **Student ID**:1820262140
 
