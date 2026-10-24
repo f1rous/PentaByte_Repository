@@ -2,8 +2,15 @@
 
     
 Personal Log  
-	**Elgin**	
-	**Student ID:1820262140**
+**Elgin**
+	
+**Student ID**:1820262140
+
+**Team Name:** PentaByte
+
+**Project:** Algorithms, Data Structures and Connectionist AI
+
+**Course:** Foundations of Computer Science & AI
 
 # 	Entry \#1
 
