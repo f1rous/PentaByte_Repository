@@ -1,4 +1,4 @@
-<img width="512" height="339" alt="image" src="https://github.com/user-attachments/assets/5971986e-a1aa-4930-9e0b-d065fad83437" /># **Personal Learning and Work Log**
+# **Personal Learning and Work Log**
 
 **Name:** Nicholas Wirgatama(吳宜展)
 
