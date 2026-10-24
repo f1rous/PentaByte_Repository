@@ -7,8 +7,7 @@
 | **Team** | PentaByte |
 | **Project** | Algorithms, Data Structures, and Connectionist AI |
 | **Course** | Foundations of Computer Science & AI |
-| **Stage** | 1 |
-| **Reporting period** | From the beginning of course learning and project work to October 24, 2026 |
+
 
 ## October 9, 2026 — Team Formation and GitHub Setup
 
