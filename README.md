@@ -42,9 +42,6 @@ it will mainly talk about definitions and cosepts
 Completed:
 - [ ] Repository and team setup
 - [ ] Module outline
-
-
-Remaining:
 - [ ] Substantive learning content
 - [ ] Peer review
 - [ ] Verify references and examples
