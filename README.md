@@ -42,12 +42,16 @@ it will mainly talk about definitions and cosepts
 Completed:
 - [ ] Repository and team setup
 - [ ] Module outline
-- [ ] Substantive learning content
-- [ ] Peer review
 - [ ] Verify references and examples
 - [ ] Capture repository evidence
 - [ ] Generate the readable content PDF
 - [ ] Prepare and test the submission ZIP
+
+
+In progress:
+- [ ] Substantive learning content
+- [ ] Peer review
+
 
 ## How to Use This Repository
 
