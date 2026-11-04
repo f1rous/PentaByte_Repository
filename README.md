@@ -6,7 +6,7 @@
 ## About the Project
 
 this projects main goal is to create beginner friendly content that is digestible for Noobs
-it will mainly talk about definitions and cosepts
+it will mainly talk about definitions and concepts
 
 ## Team Members
 
@@ -26,10 +26,20 @@ it will mainly talk about definitions and cosepts
 | Data Structures | Core structures and operations | In progress |
 | Connectionist AI | Neurons and basic neural networks | In progress |
 
+## chapter per-Unit 
+
+| Section | chapter | Status |
+|---|---|---|
+| Unit-1 |1-3 | In progress | 
+| Unit-2 | 4-7 | In progress |
+|  Unit-3 | 8-11  | In progress |
+| Unit-4 | 12-16 | In progress |
+|  Unit-5 | 17-18  | In progress |
+
 ## Repository Guide
 
 - `Docs/` — planning, outline and review records
-- `Content/` — learning chapters in Markdown
+- `Content/` — learning chapters per Unit in Markdown
 - `Assets/` — diagrams, images and examples
 - `Logs/` — AI-use and contribution records
 - `Submission/` — report drafts and evidence
@@ -37,7 +47,7 @@ it will mainly talk about definitions and cosepts
 ## Project Progress
 
 **Current version:** V1.0  
-**Last updated:** 2026-10-20
+**Last updated:** 2026-11-04
 
 Completed:
 - [ ] Repository and team setup
