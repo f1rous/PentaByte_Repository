@@ -16,7 +16,7 @@ it will mainly talk about definitions and concepts
   |F1rous | Elgin asokananda Theng 唐于钦 |1820262140| Repository and Markdown
   |swap-nil-07 |Swapnil Mondal 苏明 | 1820262094 | Personal logs and Module Outline
   |AroundTheWorld170672 | Nicholas Wirgatama 吳宜展 | 1820252090| Project Log and Summaries
-  |HASAN MD RAKIB AL | RAKIB-DEV354 | 1820262062| Live Status Reports
+  |RAKIB-DEV354 | HASAN MD RAKIB AL | 1820262062| Live Status Reports
 
 ## Learning Materials
 
