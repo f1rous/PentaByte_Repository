@@ -1,5 +1,6 @@
 # Personal Learning and Work Log
-
+> **Name:** Swapnil Milon Mondal (苏明) <br>
+> **Student ID :** 1820262094<br>
 > **Project:** Algorithms, Data Structures, and Connectionist AI  
 > **Team:** PentaByte  
 > **Role:** Content Lead & Video Tutorials PIC  
