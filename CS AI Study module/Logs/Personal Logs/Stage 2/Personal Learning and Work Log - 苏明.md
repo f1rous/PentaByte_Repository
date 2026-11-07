@@ -35,6 +35,12 @@ Initially, I was uncertain about the extent of my individual responsibilities, p
 
 **Evidence:** Screenshots of the ChatGPT discussion regarding Stage 2 requirements and responsibilities, the previously prepared 18-chapter project outline, and the Stage 2 assignment instructions.
 
+<img width="1440" height="1080" alt="Day-1" src="https://github.com/user-attachments/assets/b0365ea3-55f4-4c85-a905-5845bf37125d" />
+<img width="1080" height="1393" alt="Day-1 0" src="https://github.com/user-attachments/assets/bf94c61c-d9a8-4c09-bde4-70d53e15ac4e" />
+<img width="1362" height="721" alt="Day-1 00" src="https://github.com/user-attachments/assets/5187d9d0-47f5-4185-8661-6bdacdfcf971" />
+
+
+
 ---
 
 ### 2026-10-28 | Content Development and Review of Project Learning Materials
@@ -63,7 +69,9 @@ Through this work, I developed a better understanding of the importance of maint
 
 **Evidence:** The agreed 18-chapter project outline, available unit learning materials, existing supporting code files, and relevant project review records.
 
+<img width="1365" height="720" alt="Image_20261105013129_186_2" src="https://github.com/user-attachments/assets/adf6abe1-7397-42c8-a907-36051a67a48f" />
 ---
+
 
 ### 2026-10-30 | Completion of Detailed Content Outline and Unit Allocation Meeting
 
@@ -97,6 +105,10 @@ Today's activities helped me understand the importance of teamwork and collabora
 
 **Evidence:** The completed detailed PentaByte Content Outline V3.0, relevant team meeting records, and available evidence of the lottery-based unit allocation.
 
+<img width="2399" height="1080" alt="Image_20261106163107_195_2" src="https://github.com/user-attachments/assets/74aa990f-1413-431f-9bab-9f5fa0986a30" />
+<img width="1704" height="1080" alt="sc3" src="https://github.com/user-attachments/assets/9ff6ebc2-b102-4506-b577-2f06497760ce" />
+
+
 ---
 
 ### 2026-11-01 | Unit II Content Study, Python Practice, and Learning Material Preparation
@@ -127,21 +139,14 @@ Today's work helped me realize that preparing effective educational materials re
 
 #### Supporting Evidence
 
-![Chapter 4 Python practice in Visual Studio Code.](assets/evidence/chapter-04-vscode.png)
-
-*Chapter 4 Python practice in Visual Studio Code.*
-
-![Chapter 4 Python practice in Google Colab.](assets/evidence/chapter-04-colab.jpg)
-
 *Chapter 4 Python practice in Google Colab.*
 
-![Chapter 5 Python practice in Visual Studio Code.](assets/evidence/chapter-05-vscode.png)
-
-*Chapter 5 Python practice in Visual Studio Code.*
-
-![Chapter 5 Python practice in Google Colab.](assets/evidence/chapter-05-colab.jpg)
+<img width="1365" height="720" alt="Screenshot 2026-11-06 164637" src="https://github.com/user-attachments/assets/02db1b7b-fc9b-46bd-9ba9-fa287f81a9d8" />
 
 *Chapter 5 Python practice in Google Colab.*
+
+<img width="1365" height="721" alt="Screenshot 2026-11-06 165634" src="https://github.com/user-attachments/assets/3a1a0b54-3cb9-49e8-b012-5fa859620264" />
+
 
 ---
 
@@ -177,13 +182,16 @@ Today's work helped me understand how different data structures can represent re
 
 #### Supporting Evidence
 
-![Chapter 6 Python demonstration in Google Colab.](assets/evidence/chapter-06-colab.jpg)
+
 
 *Chapter 6 Python demonstration in Google Colab.*
 
-![Chapter 7 Python demonstration in Google Colab.](assets/evidence/chapter-07-colab.jpg)
+<img width="1365" height="723" alt="Screenshot 2026-11-06 170823" src="https://github.com/user-attachments/assets/049a63f0-90cf-4cba-b15b-1ac74497ff90" />
+
 
 *Chapter 7 Python demonstration in Google Colab.*
+<img width="1365" height="720" alt="Screenshot 2026-11-06 170853" src="https://github.com/user-attachments/assets/8152bfa7-ad66-4644-97c6-e659cc522667" />
+
 
 ---
 
@@ -227,11 +235,14 @@ Participating in the team meeting reminded me that individual work and group col
 
 **Evidence:** Chapter 8 learning materials, relevant Python code and Google Colab execution screenshots, and available evidence of the team meeting.
 
+
+
 #### Supporting Evidence
 
-![Chapter 8 BFS demonstration in Google Colab.](assets/evidence/chapter-08-colab.jpg)
 
 *Chapter 8 BFS demonstration in Google Colab.*
+
+<img width="1365" height="720" alt="Screenshot 2026-11-06 172412" src="https://github.com/user-attachments/assets/aa5d0cdc-78ce-45fd-8c06-6ee7bef1a4ec" />
 
 ---
 
@@ -266,8 +277,11 @@ Additionally, practising Python alongside presentation development helped me mai
 **Evidence:** The completed Unit II PowerPoint presentation, relevant screenshots of Python code and execution in Visual Studio Code, selected image resources used in the presentation, and available communication records regarding the common presentation and Study Guide templates.
 
 #### Supporting Evidence
+<img width="1080" height="1440" alt="Image_20261105164118_189_2" src="https://github.com/user-attachments/assets/33fd1cd7-5c37-4acb-b754-9255ddc0df8d" />
+<img width="1365" height="721" alt="Image_20261105213932_194_2" src="https://github.com/user-attachments/assets/0b6c37e6-f722-4bac-b0a2-6eab6dbd6da1" />
 
-![Title slide of the Unit II presentation.](assets/evidence/unit-ii-presentation-title-slide.jpg)
+
+
 
 *Title slide of the Unit II presentation.*
 
@@ -303,7 +317,9 @@ Today's activities helped me recognize the importance of collaboration and conti
 
 #### Supporting Evidence
 
-![Online reference research for the Study Guide.](assets/evidence/study-guide-reference-research.png)
+<img width="1365" height="721" alt="Screenshot 2026-11-07 133656" src="https://github.com/user-attachments/assets/bce77296-620b-4d9b-8e9a-b4e360610e0f" />
+
+
 
 *Online reference research for the Study Guide.*
 
@@ -347,9 +363,9 @@ Today's work gave me valuable experience in educational video production. I real
 
 #### Supporting Evidence
 
-![Video tutorial recording and editing interface.](assets/evidence/video-tutorial-recording-interface.png)
 
 *Video tutorial recording and editing interface.*
+<img width="1365" height="720" alt="Screenshot 2026-11-07 141351" src="https://github.com/user-attachments/assets/6cfa9ef9-76b8-4462-b84f-3d75bd2d3fee" />
 
 ---
 
@@ -378,6 +394,8 @@ Today's work helped me recognize the importance of conducting a thorough review 
 **Verification:** The uploaded project files can be verified through the team's GitHub repository and their corresponding upload or commit records. Communication with the team leader can also be checked to confirm that the materials were shared for the final submission process.
 
 **Evidence:** GitHub repository link, relevant upload or commit screenshots, the completed Unit II project files, and communication records showing that the materials were shared with the team leader.
+
+<img width="1365" height="719" alt="Screenshot 2026-11-07 135507" src="https://github.com/user-attachments/assets/00eb79e5-38ea-42b0-b3ad-60ad419aaac1" />
 
 ---
 
