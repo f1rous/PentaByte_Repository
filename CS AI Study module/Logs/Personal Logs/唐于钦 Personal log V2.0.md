@@ -13,7 +13,10 @@ Result		: decided everyone's roles and responsibilities (i responsible for unit 
 Lesson Learnt	: there is a lot of work to do  
 Work Left	: Creation of Study guide, Repomanagement and Video making  
 Plans		: try and do some of the work needed for Study guide  
-Proof		: https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%201.png
+Proof		:<img width="1600" height="1204" alt="2 6" src="https://github.com/user-attachments/assets/faff75a4-700b-4a92-acae-2953a6a47aad" />
+
+
+
 
 AI Use 		: none  
 Tool		: \-  
@@ -28,7 +31,11 @@ Result		: fixed filling issue in the repo
 Lesson Learnt	: do not underestimate time management  
 Work Left	: PPTX, Video, Canva  
 Plans		: Do the work above  
-Proof		:https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%202.png
+Proof		:<img width="1843" height="758" alt="2 1" src="https://github.com/user-attachments/assets/eaa04fa6-d0d0-4a3c-89b7-d71cf941d1c0" />
+
+
+
+
 
 AI Use 		: none  
 Tool		: \-  
@@ -43,14 +50,15 @@ Result		:  ¼ of work done
 Lesson Learnt	: need to do more work  
 Work Left	: ¾ of work left  
 Plans		: do ¾ of work  
-Proof		: https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%203.png
+Proof		: <img width="905" height="306" alt="2 4" src="https://github.com/user-attachments/assets/2396894e-91c2-4d6b-979f-2f71d6dc5b7a" />
+
 
 AI Use 		: fix some of the faults of Study guide  
 Tool		: ChatGPT  
 Aim		:fix the faults  
 Prompt		: https\://chatgpt.com/g/g-p-6aeca667fffc81918a844fcd90206030-pptx-guide-content/c/6aecb7c7-d7a8-83ee-a63d-33a5a156a1ef  
-Proof		:   
-https\://chatgpt.com/g/g-p-6aeca667fffc81918a844fcd90206030-pptx-guide-content/c/6aecb7c7-d7a8-83ee-a63d-33a5a156a1ef
+Proof		:    https\://chatgpt.com/g/g-p-6aeca667fffc81918a844fcd90206030-pptx-guide-content/c/6aecb7c7-d7a8-83ee-a63d-33a5a156a1ef  
+
 
 Entry \#4  
 Time		:04/11/2026  
@@ -59,7 +67,7 @@ Result		:  preparations are ready for PPTX, Canva and Video
 Lesson Learnt	:  to save every point of data  
 Work Left	: actually do the work  
 Plans		:  do the work  
-Proof		: https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%204.png
+Proof		: <img width="767" height="227" alt="2 3" src="https://github.com/user-attachments/assets/738d30ff-a013-4d57-837b-c27fa6dd1093" />
 
 AI Use 		: PPTX preperation  
 Tool		:  ChatGPT  
@@ -74,7 +82,10 @@ Result		: Finished The Canva, and PPTX work of Unit 1
 Lesson Learnt	: workflow management is important  
 Work Left	: Video making  
 Plans		: Create the video  
-Proof		: https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%205.png
+Proof		: <img width="782" height="607" alt="2 5" src="https://github.com/user-attachments/assets/c7345ffa-a310-4258-b0e0-51cb9745addf" />
+
+
+
 
 AI Use 		: Get a workflow in order  
 Tool		: ChatGPT  
@@ -89,7 +100,7 @@ Result		: all the required documents for Markdown v2.0
 Lesson Learnt	: How to create and use a python based file sorter in a local enviroment  
 Work Left	: V3.0  
 Plans		: prepare for V 3.0  
-Proof		: https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%206.jpeg
+Proof		: <img width="1500" height="727" alt="2 2" src="https://github.com/user-attachments/assets/bde62c11-0e0b-44da-8c89-226965d4956b" />
 
 AI Use 		: fixing repo and video editing  
 Tool		: chatgpt  
