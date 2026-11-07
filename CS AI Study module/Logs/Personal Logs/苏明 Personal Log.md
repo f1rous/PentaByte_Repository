@@ -42,15 +42,15 @@ Initially, I found the assignment instructions confusing. After asking follow-up
 
 **GitHub Account Preparation for Team Collaboration \-**
 
-![][image1]
+<img width="512" height="261" alt="sn1" src="https://github.com/user-attachments/assets/b930b6ac-8f8e-4425-a761-5d359737aa6f" />
 
 **My First Day of Project Work — Reviewing Instructions and Planning My Tasks**  
 
-                               **![][image2]**
+                              <img width="512" height="384" alt="sn2" src="https://github.com/user-attachments/assets/c400e133-5837-4296-b2ec-3b90d3983743" />
 
 **The ChatGpt screenshot—** 
 
-**![][image3]**
+<img width="342" height="512" alt="sn3" src="https://github.com/user-attachments/assets/59084f57-c11c-4cb7-b230-51f4386e621f" />
 
 **Next Steps**
 
@@ -97,15 +97,16 @@ I initially thought that being responsible for tutorial videos meant I had to fi
 
 **Using Goooogle to understand the topics \-**
 
-![][image4]
+<img width="512" height="257" alt="sn4" src="https://github.com/user-attachments/assets/042839aa-6645-4d74-b9c9-2b998cba94e8" />
 
 **Learning Python Fundamentals with Claude — Screenshot of AI-Assisted Learning** 
 
-![][image5]
+<img width="512" height="255" alt="sn5" src="https://github.com/user-attachments/assets/892d1be7-edad-480d-8715-728cafb787a0" />
 
 **Working on Project Research and Content Development at the 24-Hour Library–**
 
-![][image6]![][image7]
+<img width="512" height="384" alt="sn6" src="https://github.com/user-attachments/assets/98870be9-6ae5-485f-853f-5addc75da713" />
+<img width="384" height="512" alt="sn7" src="https://github.com/user-attachments/assets/a4fd25e4-cf60-49c3-bf4d-c073e2b0c4fe" />
 
 **Next Steps**
 
@@ -133,11 +134,11 @@ I prepared a more detailed chapter outline and obtained AI-assisted draft learni
 
 **Research on Python Fundamentals and Algorithm Efficiency —** 
 
-. ![][image8]
+<img width="512" height="259" alt="sn8" src="https://github.com/user-attachments/assets/0e823b18-c2a3-4bb7-93ab-f6a031802a1b" />
 
 **PentaByte Team Meeting — Project Progress and Content Planning—**
 
-![][image9]
+<img width="512" height="230" alt="sn9" src="https://github.com/user-attachments/assets/452c3526-4538-4af9-9e9b-28ce318606ee" />
 
 ### **Learning and Reflection**
 
@@ -189,7 +190,7 @@ Original and revised content outlines showing the reduction in scope; meeting no
 
 **A snippet of the team working together to finalize the overall project plan. Photo taken by 苏明 (me\!\!)**
 
-![][image10]
+<img width="512" height="384" alt="sn10" src="https://github.com/user-attachments/assets/8fc75a8e-be04-4d27-afd9-d7694af60eb8" />
 
 **The Final use of chatGpt before 1st stage  submission \-**
 
