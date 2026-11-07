@@ -2,6 +2,7 @@
 # Algorithms, Data Structures & Connectionist AI
 
 > Stage 1 — GitHub Repository and Markdown Content V1.0
+> Stage 2 — Markdown Content V2.0
 
 ## About the Project
 
@@ -22,32 +23,33 @@ it will mainly talk about definitions and concepts
 
 | Section | Content | Status |
 |---|---|---|
-| Algorithms | Concepts, examples and complexity | In progress |
-| Data Structures | Core structures and operations | In progress |
-| Connectionist AI | Neurons and basic neural networks | In progress |
+| Algorithms | Concepts, examples and complexity | Complete | 
+| Data Structures | Core structures and operations | Complete | 
+| Connectionist AI | Neurons and basic neural networks | Complete | 
 
 ## chapter per-Unit 
 
 | Section | chapter | Status |
 |---|---|---|
-| Unit-1 |1-3 | In progress | 
-| Unit-2 | 4-7 | In progress |
-|  Unit-3 | 8-11  | In progress |
-| Unit-4 | 12-16 | In progress |
-|  Unit-5 | 17-18  | In progress |
+| Unit-1 |1-3 | Complete | 
+| Unit-2 | 4-7 | Complete | 
+|  Unit-3 | 8-11  | Complete | 
+| Unit-4 | 12-16 | Complete | 
+|  Unit-5 | 17-18  | Complete | 
 
 ## Repository Guide
 
 - `Docs/` — planning, outline and review records
 - `Content/` — learning chapters per Unit in Markdown
+- 'Code'/'  — all code used in examples in chapters
 - `Assets/` — diagrams, images and examples
 - `Logs/` — AI-use and contribution records
 - `Submission/` — report drafts and evidence
 
 ## Project Progress
 
-**Current version:** V1.0  
-**Last updated:** 2026-11-04
+**Current version:** V2.0  
+**Last updated:** 2026-11-07
 
 Completed:
 - [ ] Repository and team setup
@@ -56,9 +58,6 @@ Completed:
 - [ ] Capture repository evidence
 - [ ] Generate the readable content PDF
 - [ ] Prepare and test the submission ZIP
-
-
-In progress:
 - [ ] Substantive learning content
 - [ ] Peer review
 
