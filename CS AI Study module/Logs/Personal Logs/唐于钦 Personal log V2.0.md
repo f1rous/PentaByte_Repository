@@ -13,7 +13,7 @@ Result		: decided everyone's roles and responsibilities (i responsible for unit 
 Lesson Learnt	: there is a lot of work to do  
 Work Left	: Creation of Study guide, Repomanagement and Video making  
 Plans		: try and do some of the work needed for Study guide  
-Proof		: ![][image1]
+Proof		: https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%201.png
 
 AI Use 		: none  
 Tool		: \-  
@@ -28,7 +28,7 @@ Result		: fixed filling issue in the repo
 Lesson Learnt	: do not underestimate time management  
 Work Left	: PPTX, Video, Canva  
 Plans		: Do the work above  
-Proof		: ![][image2]
+Proof		:https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%202.png
 
 AI Use 		: none  
 Tool		: \-  
@@ -43,7 +43,7 @@ Result		:  ¼ of work done
 Lesson Learnt	: need to do more work  
 Work Left	: ¾ of work left  
 Plans		: do ¾ of work  
-Proof		: ![][image3]
+Proof		: https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%203.png
 
 AI Use 		: fix some of the faults of Study guide  
 Tool		: ChatGPT  
@@ -59,7 +59,7 @@ Result		:  preparations are ready for PPTX, Canva and Video
 Lesson Learnt	:  to save every point of data  
 Work Left	: actually do the work  
 Plans		:  do the work  
-Proof		: ![][image4]
+Proof		: https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%204.png
 
 AI Use 		: PPTX preperation  
 Tool		:  ChatGPT  
@@ -74,7 +74,7 @@ Result		: Finished The Canva, and PPTX work of Unit 1
 Lesson Learnt	: workflow management is important  
 Work Left	: Video making  
 Plans		: Create the video  
-Proof		: ![][image5]
+Proof		: https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%205.png
 
 AI Use 		: Get a workflow in order  
 Tool		: ChatGPT  
@@ -89,7 +89,7 @@ Result		: all the required documents for Markdown v2.0
 Lesson Learnt	: How to create and use a python based file sorter in a local enviroment  
 Work Left	: V3.0  
 Plans		: prepare for V 3.0  
-Proof		: ![][image6]
+Proof		: https://github.com/f1rous/PentaByte_Repository/blob/main/CS%20AI%20Study%20module/Assets/Personal%20Assets/Elgin%20A.T/2%206.jpeg
 
 AI Use 		: fixing repo and video editing  
 Tool		: chatgpt  
