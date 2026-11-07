@@ -194,7 +194,7 @@ Original and revised content outlines showing the reduction in scope; meeting no
 
 **The Final use of chatGpt before 1st stage  submission \-**
 
-**![][image11]**
+<img width="512" height="252" alt="sn11" src="https://github.com/user-attachments/assets/c9df00f3-b35f-428b-9746-97df0b204f96" />
 
 **Next steps**
 
